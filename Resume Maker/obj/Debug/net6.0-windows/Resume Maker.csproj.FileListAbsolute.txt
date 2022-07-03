@@ -1,0 +1,19 @@
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.exe
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.deps.json
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.runtimeconfig.json
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.dll
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.pdb
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.AssemblyReference.cache
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume_Maker.Form1.resources
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.GenerateResource.cache
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.AssemblyInfoInputs.cache
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.AssemblyInfo.cs
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.CoreCompileInputs.cache
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.CopyComplete
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.dll
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\refint\Resume Maker.dll
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.pdb
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.genruntimeconfig.cache
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\ref\Resume Maker.dll
