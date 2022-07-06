@@ -28,25 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.BtnRmStart = new System.Windows.Forms.Button();
+            this.BtnRmSave = new System.Windows.Forms.Button();
+            this.RtbRmInformationPanel = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // button1
+            // BtnRmStart
             // 
-            this.button1.Location = new System.Drawing.Point(342, 191);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 29);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.BtnRmStart.Location = new System.Drawing.Point(300, 384);
+            this.BtnRmStart.Name = "BtnRmStart";
+            this.BtnRmStart.Size = new System.Drawing.Size(94, 29);
+            this.BtnRmStart.TabIndex = 0;
+            this.BtnRmStart.Text = "start";
+            this.BtnRmStart.UseVisualStyleBackColor = true;
+            this.BtnRmStart.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // BtnRmSave
+            // 
+            this.BtnRmSave.Location = new System.Drawing.Point(300, 439);
+            this.BtnRmSave.Name = "BtnRmSave";
+            this.BtnRmSave.Size = new System.Drawing.Size(94, 29);
+            this.BtnRmSave.TabIndex = 2;
+            this.BtnRmSave.Text = "save";
+            this.BtnRmSave.UseVisualStyleBackColor = true;
+            this.BtnRmSave.Click += new System.EventHandler(this.BtnRmSave_Click);
+            // 
+            // RtbRmInformationPanel
+            // 
+            this.RtbRmInformationPanel.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.RtbRmInformationPanel.Location = new System.Drawing.Point(5, 123);
+            this.RtbRmInformationPanel.Name = "RtbRmInformationPanel";
+            this.RtbRmInformationPanel.Size = new System.Drawing.Size(716, 120);
+            this.RtbRmInformationPanel.TabIndex = 3;
+            this.RtbRmInformationPanel.Text = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(733, 518);
+            this.Controls.Add(this.RtbRmInformationPanel);
+            this.Controls.Add(this.BtnRmSave);
+            this.Controls.Add(this.BtnRmStart);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -56,6 +79,8 @@
 
         #endregion
 
-        private Button button1;
+        private Button BtnRmStart;
+        private Button BtnRmSave;
+        private RichTextBox RtbRmInformationPanel;
     }
 }

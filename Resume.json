@@ -1,0 +1,54 @@
+{
+"PALMES_RODERICK" :
+    {
+    "Name" : "Roderick B. Palmes",
+    "Personal Information":
+        [
+        "Contact no.: 09635028027 (SMART)",
+        "Email: yhanlharpacio13@gmail.com",
+        "Address: #515 Marcelo St. Malanday, Valenzuela City",
+        "Birthday: December 13, 2003",    
+        "Birthplace: Quezon City",
+        "Age: 18              Sex: Male",
+        "Status: Single     Religion: Catholic",
+        "Height: 175 cm     Weight: 62 kg"
+        ]
+    ,"Objective" : 
+        [
+        "   -To apply in any position that commensurate with my skills and study."
+        ]
+    ,"Educational Background" :
+        {
+        "Tertiary":
+            [
+            "Year: 2021 – Present       Polytechnic University of the Philippines",
+            "                                       Anonas St. Brgy 630 Sta. Mesa Manila",
+            "                                       Course: BS Computer Engineering"
+            ]
+        ,"Secondary":
+            [
+            "Year: 2019 – 2021          Malinta National High School(SHS)",
+            "                                       St. Jude Subd., Malinta Valenzuela",
+            "                                       Strand: Science, Technology, Engineering and Mathematics"
+            ]   
+,         "Primary":
+            [
+            "Year: 2009 – 2015          Andres Mariano Elementary School",
+            "                                       Andres Mariano St. Bagbaguin Valenzuela"
+            ]
+         } 
+    ,"Work Experiences":       
+        [
+            "2020-12 - Present       ROD's PRINTING SERVICES/Business Owner",
+            "                                   •Developed well customer service attitude",
+            "                                   •Enhanced troubleshooting skill",
+            "                                   •Developed different printing skills and printer maintenance"
+        ]   
+    ,"Skills and Capabilities":
+        [
+            "•Computer Literate                                 •60-70 WpM Typing Speed                     •Ability to Multitask ",
+            "•C# Intermediate Programming Skill     •Ability to Adopt in any Work Condition     •Problem Solving Skill"
+        ]
+
+}
+}
