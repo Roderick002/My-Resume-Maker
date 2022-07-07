@@ -1,54 +1,83 @@
 {
-"PALMES_RODERICK" :
-    {
-    "Name" : "Roderick B. Palmes",
-    "Personal Information":
+
+    "Name" : "RODERICK B. PALMES",
+    "Profile":
         [
-        "Contact no.: 09635028027 (SMART)",
-        "Email: yhanlharpacio13@gmail.com",
-        "Address: #515 Marcelo St. Malanday, Valenzuela City",
-        "Birthday: December 13, 2003",    
-        "Birthplace: Quezon City",
-        "Age: 18              Sex: Male",
-        "Status: Single     Religion: Catholic",
-        "Height: 175 cm     Weight: 62 kg"
+        "Contact no.: 09334611668 (SMART)",
+        "Email: roderickbpalmes@gmail.com",
+        "Address: #1488 Alley 8 Sitio Gitna Caybiga Caloocan City",
+        "Birthday: August 23, 2002",    
+        "Birthplace: Manila City",
+        "Age: 19",              
+        "Sex: Male",
+        "Status: Single",    
+        "Religion: Catholic",
+        "Citizenship: Filipino",
+        "Height: 175 cm",    
+        "Weight: 62 kg"
         ]
     ,"Objective" : 
         [
-        "   -To apply in any position that commensurate with my skills and study."
+        "-    To apply in any position that commensurate with my skills and study."
         ]
     ,"Educational Background" :
         {
         "Tertiary":
             [
-            "Year: 2021 – Present       Polytechnic University of the Philippines",
-            "                                       Anonas St. Brgy 630 Sta. Mesa Manila",
-            "                                       Course: BS Computer Engineering"
+            "Polytechnic University of the Philippines",
+            "Anonas St. Brgy 630 Sta. Mesa Manila",
+            "Course: BS Computer Engineering",
+            "Year: 2021 – Present"
+            
             ]
         ,"Secondary":
             [
-            "Year: 2019 – 2021          Malinta National High School(SHS)",
-            "                                       St. Jude Subd., Malinta Valenzuela",
-            "                                       Strand: Science, Technology, Engineering and Mathematics"
+            "Malinta National High School(SHS)",
+            "St. Jude Subd., Malinta Valenzuela",
+            "Strand: Science, Technology, Engineering and Mathematics",
+            "Academic Year: 2019 – 2021",
+            " ",
+            "Bagbaguin National High School",
+            "San Diego St. Bagbaguin Valenzuela",
+            "Year: 2015 – 2019"
+
+                        
             ]   
-,         "Primary":
+        ,"Primary":
             [
-            "Year: 2009 – 2015          Andres Mariano Elementary School",
-            "                                       Andres Mariano St. Bagbaguin Valenzuela"
+            "Andres Mariano Elementary School",
+            "Andres Mariano St. Bagbaguin Valenzuela",
+            "Academic Year: 2009 – 2015"
+            
+
             ]
          } 
     ,"Work Experiences":       
         [
-            "2020-12 - Present       ROD's PRINTING SERVICES/Business Owner",
-            "                                   •Developed well customer service attitude",
-            "                                   •Enhanced troubleshooting skill",
-            "                                   •Developed different printing skills and printer maintenance"
+            "ROD's PRINTING SERVICES/Business Owner (2020-12 - Present)",
+            "     •Developed well customer service attitude",
+            "     •Enhanced troubleshooting skill",
+            "     •Developed different printing skills and printer maintenance"
         ]   
-    ,"Skills and Capabilities":
+    ,"Skills":
         [
-            "•Computer Literate                                 •60-70 WpM Typing Speed                     •Ability to Multitask ",
-            "•C# Intermediate Programming Skill     •Ability to Adopt in any Work Condition     •Problem Solving Skill"
+            "-Computer Literate",
+            "-60-70 WpM Typing Speed",
+            "-Ability to Multitask ",
+            "-C# Intermediate Programming Skill",
+            "-Ability to Adopt in any Work Condition",
+            "-Problem Solving Skill",
+            "-Responsible"
+        ]
+    ,"Hobbies":
+        [
+            "Creating Programs",
+            "Typing",
+            "Handcrafting",
+            "Online Gaming",
+            "Cooking",
+            "Singing"
         ]
 
-}
+
 }

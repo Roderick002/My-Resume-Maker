@@ -5,7 +5,6 @@ C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Resume Maker.pdb
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.AssemblyReference.cache
-C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume_Maker.Form1.resources
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.csproj.GenerateResource.cache
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume Maker.AssemblyInfoInputs.cache
@@ -20,3 +19,4 @@ C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\bin\Debug\net6.0-windows\itextsharp.dll
 C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume_Maker.Properties.Resources.resources
+C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resume Maker\obj\Debug\net6.0-windows\Resume_Maker.Resume_Maker.resources
