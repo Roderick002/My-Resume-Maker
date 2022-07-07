@@ -27,7 +27,7 @@ namespace Resume_Maker
             }
             else
             {
-                StreamReader File = new StreamReader(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\" + TbRmJsonFileName.Text + ".json");
+                StreamReader File = new StreamReader(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\JSON Files\" + TbRmJsonFileName.Text + ".json");
                 dynamic jsonFile = JsonConvert.DeserializeObject(File.ReadToEnd());
 
                 string[] Extra = new string[6] { "{", "}", ",", "[", "]", "\"" };
@@ -74,15 +74,17 @@ namespace Resume_Maker
         {
 
             iTextSharp.text.Document Doc = new iTextSharp.text.Document(PageSize.LETTER);
-            PdfWriter.GetInstance(Doc, new FileStream(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\"+ TbRmJsonFileName.Text +".pdf", FileMode.Create));
+            PdfWriter.GetInstance(Doc, new FileStream(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\Resumes\"+ TbRmJsonFileName.Text +".pdf", FileMode.Create));
             Doc.Open();
             System.Drawing.Image img = System.Drawing.Image.FromFile(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\" + TbRmJsonFileName.Text + ".jpeg");
             iTextSharp.text.Image Itextimage = iTextSharp.text.Image.GetInstance(img, System.Drawing.Imaging.ImageFormat.Jpeg);
             Itextimage.Alignment = Element.ALIGN_CENTER;
-            Itextimage.ScaleToFit(648, 838);
+            Itextimage.ScaleToFit(563, 750);
             Doc.Add(Itextimage);
             Doc.Close();
 
+            MessageBox.Show("Your Resume Has Been Successfully Saved!");
+            File.Delete(@"C:\Users\damtr\OneDrive\Desktop\Programs\Resume Maker\" + TbRmJsonFileName.Text + ".jpeg");
             BtnRmGenerate.Enabled = true;
             PbRmPreview = null;
             BtnRmSave.Enabled = false;
