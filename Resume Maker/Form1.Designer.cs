@@ -62,6 +62,7 @@
             this.PanelRmDesign.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PbRmPreview)).BeginInit();
+            this.panel10.SuspendLayout();
             this.SuspendLayout();
             // 
             // BtnRmSave
@@ -87,7 +88,7 @@
             this.PanelRmDesign.Controls.Add(this.TbRmName);
             this.PanelRmDesign.Controls.Add(this.LblRmEducation);
             this.PanelRmDesign.Controls.Add(this.panel2);
-            this.PanelRmDesign.Location = new System.Drawing.Point(763, 423);
+            this.PanelRmDesign.Location = new System.Drawing.Point(36, 5);
             this.PanelRmDesign.Name = "PanelRmDesign";
             this.PanelRmDesign.Size = new System.Drawing.Size(648, 838);
             this.PanelRmDesign.TabIndex = 5;
@@ -195,7 +196,7 @@
             this.TbRmSkills.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TbRmSkills.Font = new System.Drawing.Font("Century Gothic", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.TbRmSkills.ForeColor = System.Drawing.Color.White;
-            this.TbRmSkills.Location = new System.Drawing.Point(7, 486);
+            this.TbRmSkills.Location = new System.Drawing.Point(7, 462);
             this.TbRmSkills.Multiline = true;
             this.TbRmSkills.Name = "TbRmSkills";
             this.TbRmSkills.ReadOnly = true;
@@ -208,7 +209,7 @@
             this.LblRmSkills.AutoSize = true;
             this.LblRmSkills.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblRmSkills.ForeColor = System.Drawing.Color.White;
-            this.LblRmSkills.Location = new System.Drawing.Point(7, 460);
+            this.LblRmSkills.Location = new System.Drawing.Point(7, 436);
             this.LblRmSkills.Name = "LblRmSkills";
             this.LblRmSkills.Size = new System.Drawing.Size(66, 23);
             this.LblRmSkills.TabIndex = 7;
@@ -220,7 +221,7 @@
             this.TbRmHobbies.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TbRmHobbies.Font = new System.Drawing.Font("Century Gothic", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.TbRmHobbies.ForeColor = System.Drawing.Color.White;
-            this.TbRmHobbies.Location = new System.Drawing.Point(7, 671);
+            this.TbRmHobbies.Location = new System.Drawing.Point(7, 657);
             this.TbRmHobbies.Multiline = true;
             this.TbRmHobbies.Name = "TbRmHobbies";
             this.TbRmHobbies.ReadOnly = true;
@@ -233,7 +234,7 @@
             this.LblRmHobbies.AutoSize = true;
             this.LblRmHobbies.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblRmHobbies.ForeColor = System.Drawing.Color.White;
-            this.LblRmHobbies.Location = new System.Drawing.Point(6, 644);
+            this.LblRmHobbies.Location = new System.Drawing.Point(6, 630);
             this.LblRmHobbies.Name = "LblRmHobbies";
             this.LblRmHobbies.Size = new System.Drawing.Size(91, 23);
             this.LblRmHobbies.TabIndex = 5;
@@ -245,11 +246,11 @@
             this.TbRmObjective.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TbRmObjective.Font = new System.Drawing.Font("Century Gothic", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.TbRmObjective.ForeColor = System.Drawing.Color.White;
-            this.TbRmObjective.Location = new System.Drawing.Point(7, 376);
+            this.TbRmObjective.Location = new System.Drawing.Point(7, 361);
             this.TbRmObjective.Multiline = true;
             this.TbRmObjective.Name = "TbRmObjective";
             this.TbRmObjective.ReadOnly = true;
-            this.TbRmObjective.Size = new System.Drawing.Size(218, 72);
+            this.TbRmObjective.Size = new System.Drawing.Size(218, 69);
             this.TbRmObjective.TabIndex = 4;
             this.TbRmObjective.Text = "-\r\n";
             // 
@@ -258,7 +259,7 @@
             this.LblRmObjective.AutoSize = true;
             this.LblRmObjective.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblRmObjective.ForeColor = System.Drawing.Color.White;
-            this.LblRmObjective.Location = new System.Drawing.Point(6, 348);
+            this.LblRmObjective.Location = new System.Drawing.Point(6, 333);
             this.LblRmObjective.Name = "LblRmObjective";
             this.LblRmObjective.Size = new System.Drawing.Size(113, 23);
             this.LblRmObjective.TabIndex = 3;
@@ -285,7 +286,7 @@
             this.TbRmProfile.Multiline = true;
             this.TbRmProfile.Name = "TbRmProfile";
             this.TbRmProfile.ReadOnly = true;
-            this.TbRmProfile.Size = new System.Drawing.Size(229, 251);
+            this.TbRmProfile.Size = new System.Drawing.Size(229, 236);
             this.TbRmProfile.TabIndex = 2;
             this.TbRmProfile.Text = "Contact no.: \r\nEmail: \r\nAddress: \r\nBirthday: \r\nBirthplace: \r\nAge: \r\nSex: \r\nStatus" +
     ": \r\nReligion: \r\nCitizenship: \r\nHeight: \r\nWeight: \r\n";
@@ -403,7 +404,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PbRmPreview.BackColor = System.Drawing.Color.MistyRose;
             this.PbRmPreview.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.PbRmPreview.Location = new System.Drawing.Point(404, 52);
+            this.PbRmPreview.Location = new System.Drawing.Point(3, 3);
             this.PbRmPreview.Name = "PbRmPreview";
             this.PbRmPreview.Size = new System.Drawing.Size(310, 400);
             this.PbRmPreview.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -413,6 +414,7 @@
             // panel10
             // 
             this.panel10.BackColor = System.Drawing.Color.Maroon;
+            this.panel10.Controls.Add(this.PbRmPreview);
             this.panel10.Location = new System.Drawing.Point(401, 49);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(316, 406);
@@ -424,15 +426,13 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Resume_Maker.Properties.Resources.v996_024;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(732, 480);
-            this.Controls.Add(this.PbRmPreview);
+            this.ClientSize = new System.Drawing.Size(736, 478);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.LblRmInstruction);
             this.Controls.Add(this.BtnRmGenerate);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.TbRmJsonFileName);
-            this.Controls.Add(this.PanelRmDesign);
             this.Controls.Add(this.BtnRmSave);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel7);
@@ -440,6 +440,7 @@
             this.Controls.Add(this.panel9);
             this.Controls.Add(this.LblRmTitle);
             this.Controls.Add(this.panel10);
+            this.Controls.Add(this.PanelRmDesign);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -451,6 +452,7 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PbRmPreview)).EndInit();
+            this.panel10.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
